@@ -1,0 +1,27 @@
+#main{
+	font-size: 20px;
+	float:center;
+	width:50%;
+	margin: 0 auto;
+}
+.darkBG{
+	background-color:DFECF0;
+}
+.center{
+	text-align:center;
+}
+#image_list li {
+  float: left;
+}
+#image_list{
+  list-style-type:none;  
+}
+#image_list2 li {
+  float: left;
+}
+#image_list2{
+  list-style-type:none; 
+}
+.clear {
+  clear: both;
+}
